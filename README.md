@@ -2,8 +2,6 @@
 
 Bu çalışma, lise öğrencilerinin öğrenme stillerini, fizik tutumlarını ve başarılarını tahmin etmek için bir makine öğrenimi modeli geliştirmeyi amaçlamaktadır. Model, öğrencilerin cinsiyeti, sosyo-ekonomik durumu ve sınıf içi aktiviteleri gibi özelliklere dayalı olarak öğrenme stilleri, fizik tutumları ve başarı seviyelerini tahmin etmektedir.
 
-## Proje Hedefi
-
 Çalışma, öğrenci bilgileri, öğrenme stili envanteri, fizik tutum ölçeği ve fizik sınıf aktiviteleri anketi gibi verileri kullanarak, öğrencilerin öğrenme stillerini ve başarılarını tahmin etmek amacıyla çeşitli makine öğrenimi algoritmaları kullanmaktadır. Ankara'daki 7 farklı ilçeden 14 farklı liseden toplam 1007 öğrenciden toplanan veriler kullanılıyor.
 
 ## Kullanılan Veriler
