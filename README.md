@@ -4,7 +4,7 @@ Bu çalışma, lise öğrencilerinin öğrenme stillerini, fizik tutumlarını v
 
 ## Proje Hedefi
 
-Çalışma, öğrenci bilgileri, öğrenme stili envanteri, fizik tutum ölçeği ve fizik sınıf aktiviteleri anketi gibi verileri kullanarak, öğrencilerin öğrenme stillerini ve başarılarını tahmin etmek amacıyla çeşitli makine öğrenimi algoritmaları kullanmaktadır. Ankara'daki 7 farklı ilçeden 14 farklı liseden toplam 1007 öğrencinin verileri toplanmıştır.
+Çalışma, öğrenci bilgileri, öğrenme stili envanteri, fizik tutum ölçeği ve fizik sınıf aktiviteleri anketi gibi verileri kullanarak, öğrencilerin öğrenme stillerini ve başarılarını tahmin etmek amacıyla çeşitli makine öğrenimi algoritmaları kullanmaktadır. Ankara'daki 7 farklı ilçeden 14 farklı liseden toplam 1007 öğrenciden toplanan veriler kullanılıyor.
 
 ## Kullanılan Veriler
 
