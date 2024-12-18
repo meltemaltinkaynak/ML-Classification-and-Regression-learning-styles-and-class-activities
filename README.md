@@ -4,25 +4,18 @@ Bu çalışma, lise öğrencilerinin öğrenme stillerini, fizik tutumlarını v
 
 Çalışma, öğrenci bilgileri, öğrenme stili envanteri, fizik tutum ölçeği ve fizik sınıf aktiviteleri anketi gibi verileri kullanarak, öğrencilerin öğrenme stillerini ve başarılarını tahmin etmek amacıyla çeşitli makine öğrenimi algoritmaları kullanmaktadır. Ankara'daki 7 farklı ilçeden 14 farklı liseden toplam 1007 öğrenciden toplanan veriler kullanılıyor.
 
-## Kullanılan Veriler
 
-Veriler, 2006-2007 Eğitim-Öğretim yılı ikinci döneminde toplanmıştır ve aşağıdaki araçlarla elde edilmiştir:
 
-- Öğrenci Bilgi Formu
-- Öğrenme Stili Envanteri
-- Fizik Tutum Ölçeği
-- Fizik Sınıf Aktiviteleri Anketi
+## Modeller
 
-## Geliştirilen Modeller
-
-Bu projede kullanılan makine öğrenimi modelleri arasında:
+Bu projede kullanılan makine öğrenimi modelleri:
 
 - **KNN (K-Nearest Neighbors)**
 - **Decision Tree (Karar Ağacı)**
 - **Random Forest (Rastgele Orman)**
 - **SVM (Support Vector Machine)**
 
-bulunmaktadır. Bu modeller, öğrencilerin başarılarını tahmin etmek için çeşitli performans metrikleriyle değerlendirilmiştir.
+Bu modeller, öğrencilerin başarılarını tahmin etmek için çeşitli performans metrikleriyle değerlendirilmiştir.
 
 ## Performans Değerlendirmesi
 
